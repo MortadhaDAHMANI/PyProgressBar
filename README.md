@@ -2,7 +2,7 @@
 
 ## Preview
 
-![alt iviny](https://github.com/MortadhaDAHMANI/Progress-Bar/commits/master/execBar.png)
+![alt iviny](https://github.com/MortadhaDAHMANI/Progress-Bar/raw/master/execBar.png)
 
 ## Revision History
 * Initial Release : 3 Apr 2020
