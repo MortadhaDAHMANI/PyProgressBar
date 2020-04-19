@@ -36,4 +36,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 03 April 2020
 
 ### License
-* PyProgressBar is distributed under the **LGPL** version 3 license.
+* _PyProgressBar_ is distributed under the **LGPL** version 3 license.
