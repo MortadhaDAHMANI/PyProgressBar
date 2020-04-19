@@ -14,7 +14,13 @@
 ```
 
 ## Preview
+* Windows
+
 ![alt iviny](https://github.com/MortadhaDAHMANI/Progress-Bar/raw/master/execBar.png)
+
+* Raspbian
+
+![alt iviny](https://github.com/MortadhaDAHMANI/Progress-Bar/raw/master/lovePy.png)
 
 ### Donation
 If this project help you, you can give me a tip ;)
