@@ -30,4 +30,4 @@ If this project help you, you can give me a tip ;)
 * Initial Release : 03 April 2020
 
 ### License
-* PyListSerialPort is distributed under the **LGPL** version 3 license.
+* PyProgressBar is distributed under the **LGPL** version 3 license.
